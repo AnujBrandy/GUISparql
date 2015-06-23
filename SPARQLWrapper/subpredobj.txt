@@ -1,0 +1,177 @@
+graph has %s statements.88
+http://www.w3.org/People/Berners-Lee/card  http://creativecommons.org/ns#license  http://creativecommons.org/licenses/by-nc/3.0/
+
+Nf7e074eea5bf4bc4930d888a8edc8cc0  http://www.w3.org/2000/10/swap/pim/contact#address  Nf9d52266d22a473d904a17ec24f76062
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/account  http://www.reddit.com/user/timbl/
+
+http://www.w3.org/data#W3C  http://xmlns.com/foaf/0.1/member  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/01/rdf-schema#seeAlso  http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2002/07/owl#sameAs  http://www4.wiwiss.fu-berlin.de/bookmashup/persons/Tim+Berners-Lee
+
+Nf9d52266d22a473d904a17ec24f76062  http://www.w3.org/2000/10/swap/pim/contact#postalCode  02139
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/phone  tel:+1-(617)-253-5702
+
+http://www.w3.org/People/Berners-Lee/card#findMyLoc  http://my-profile.eu/ns/webapp#endpoint  https://timbl.data.fm/test2/locator/location
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/family_name  Berners-Lee
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/10/swap/pim/contact#homePage  http://www.w3.org/People/Berners-Lee/
+
+Nf1b6d8584e6045ffa892c48f1d3335c1  http://www.w3.org/2003/01/geo/wgs84_pos#lat  42.361860
+
+http://www4.wiwiss.fu-berlin.de/booksMeshup/books/006251587X  http://purl.org/dc/elements/1.1/title  Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web
+
+http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01  http://www.w3.org/2000/01/rdf-schema#label  The Next Wave of the Web (Plenary Panel)
+
+http://www.w3.org/People/Berners-Lee/card  http://xmlns.com/foaf/0.1/primaryTopic  https://www.w3.org/People/Berners-Lee/card#i
+
+N1c9d3ab395c147a7b0dfbbb940512909  http://www.w3.org/ns/auth/cert#exponent  65537
+
+http://www.w3.org/People/Berners-Lee/card#findMyLoc  http://my-profile.eu/ns/webapp#description  Share your location with your friends.
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/01/rdf-schema#seeAlso  http://www.w3.org/2007/11/Talks/search/query?date=All+past+and+future+talks&event=None&activity=None&name=Tim+Berners-Lee&country=None&language=None&office=None&rdfOnly=yes&submit=Submit
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/ns/pim/space#preferencesFile  https://localhost/TimBL/Data/preferences.n3
+
+Nf7e074eea5bf4bc4930d888a8edc8cc0  http://www.w3.org/2003/01/geo/wgs84_pos#location  Nf1b6d8584e6045ffa892c48f1d3335c1
+
+http://dig.csail.mit.edu/2005/ajar/ajaw/data#Tabulator  http://usefulinc.com/ns/doap#developer  https://www.w3.org/People/Berners-Lee/card#i
+
+http://dig.csail.mit.edu/data#DIG  http://xmlns.com/foaf/0.1/member  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/ns/pim/space#storage  https://timbl.rww.io/
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/weblog  http://dig.csail.mit.edu/breadcrumbs/blog/4
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/nick  timbl
+
+http://www.ecs.soton.ac.uk/~dt2/dlstuff/www2006_data#panel-panelk01  http://www.w3.org/2000/10/swap/pim/contact#participant  https://www.w3.org/People/Berners-Lee/card#i
+
+http://wiki.ontoworld.org/index.php/_IRW2006  http://purl.org/dc/elements/1.1/title  Identity, Reference and the Web workshop 2006
+
+http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf  http://xmlns.com/foaf/0.1/primaryTopic  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/givenname  Timothy
+
+Nf9d52266d22a473d904a17ec24f76062  http://www.w3.org/2000/10/swap/pim/contact#street2  MIT CSAIL Room 32-G524
+
+http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf  http://purl.org/dc/elements/1.1/title  Tim Berners-Lee's editable FOAF file
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/1999/02/22-rdf-syntax-ns#type  http://xmlns.com/foaf/0.1/Person
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/01/rdf-schema#label  Tim Berners-Lee
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/1999/02/22-rdf-syntax-ns#type  http://www.w3.org/2000/10/swap/pim/contact#Male
+
+http://www.w3.org/DesignIssues/Overview.html  http://xmlns.com/foaf/0.1/maker  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://my-profile.eu/ns/webapp#uses  http://www.w3.org/People/Berners-Lee/card#findMyLoc
+
+http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf  http://xmlns.com/foaf/0.1/maker  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/10/swap/pim/contact#assistant  https://www.w3.org/People/Berners-Lee/card#amy
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/10/swap/pim/contact#likes  http://www.gutenberg.org/catalog/world/readfile?fk_files=2372108&pageno=11
+
+http://www.w3.org/2011/Talks/0331-hyderabad-tbl/data#talk  http://xmlns.com/foaf/0.1/maker  https://www.w3.org/People/Berners-Lee/card#i
+
+http://dig.csail.mit.edu/breadcrumbs/blog/4  http://xmlns.com/foaf/0.1/maker  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/account  http://twitter.com/timberners_lee
+
+http://wiki.ontoworld.org/index.php/_IRW2006  http://www.w3.org/2000/10/swap/pim/contact#participant  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/homepage  https://www.w3.org/People/Berners-Lee/
+
+http://dig.csail.mit.edu/breadcrumbs/blog/4  http://purl.org/dc/elements/1.1/title  timbl's blog
+
+http://www.w3.org/People/Berners-Lee/card  http://www.w3.org/1999/02/22-rdf-syntax-ns#type  http://xmlns.com/foaf/0.1/PersonalProfileDocument
+
+http://dig.csail.mit.edu/2007/01/camp/data#course  http://xmlns.com/foaf/0.1/maker  https://www.w3.org/People/Berners-Lee/card#i
+
+http://www.gutenberg.org/catalog/world/readfile?fk_files=2372108&pageno=11  http://purl.org/dc/elements/1.1/title  Moby Dick, or, the whale
+
+http://www.w3.org/People/Berners-Lee/card  http://xmlns.com/foaf/0.1/maker  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/openid  https://www.w3.org/People/Berners-Lee/
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2002/07/owl#sameAs  http://www.advogato.org/person/timbl/foaf.rdf#me
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2002/07/owl#sameAs  http://graph.facebook.com/512908782#
+
+N1c9d3ab395c147a7b0dfbbb940512909  http://www.w3.org/1999/02/22-rdf-syntax-ns#type  http://www.w3.org/ns/auth/cert#RSAPublicKey
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/mbox  mailto:timbl@w3.org
+
+http://www.w3.org/DesignIssues/Overview.html  http://purl.org/dc/elements/1.1/title  Design Issues for the World Wide Web
+
+http://www.w3.org/People/Berners-Lee/card  http://purl.org/dc/elements/1.1/title  Tim Berners-Lee's FOAF file
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/nick  TimBL
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/title  Sir
+
+Nf7e074eea5bf4bc4930d888a8edc8cc0  http://www.w3.org/2000/10/swap/pim/contact#phone  tel:+1-617-253-5702
+
+Nf1b6d8584e6045ffa892c48f1d3335c1  http://www.w3.org/2003/01/geo/wgs84_pos#long  -71.091840
+
+http://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/ns/auth/cert#key  N1c9d3ab395c147a7b0dfbbb940512909
+
+http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf  http://www.w3.org/1999/02/22-rdf-syntax-ns#type  http://xmlns.com/foaf/0.1/PersonalProfileDocument
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/mbox_sha1sum  965c47c5a70db7407210cef6e4e6f5374a525c5c
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/img  http://www.w3.org/Press/Stock/Berners-Lee/2001-europaeum-eighth.jpg
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/10/swap/pim/contact#preferredURI  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2002/07/owl#sameAs  http://www4.wiwiss.fu-berlin.de/dblp/resource/person/100007
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2002/07/owl#sameAs  https://webid.mit.edu/timbl#
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/based_near  Nc321db85275d48a6b7ba3e0c1cee5640
+
+http://dig.csail.mit.edu/2008/webdav/timbl/foaf.rdf  http://creativecommons.org/ns#license  http://creativecommons.org/licenses/by-nc/3.0/
+
+N1c9d3ab395c147a7b0dfbbb940512909  http://www.w3.org/ns/auth/cert#modulus  ebe99c737bd3670239600547e5e2eb1d1497da39947b6576c3c44ffeca32cf0f2f7cbee3c47001278a90fc7fc5bcf292f741eb1fcd6bbe7f90650afb519cf13e81b2bffc6e02063ee5a55781d420b1dfaf61c15758480e66d47fb0dcb5fa7b9f7f1052e5ccbd01beee9553c3b6b51f4daf1fce991294cd09a3d1d636bc6c7656e4455d0aff06daec740ed0084aa6866fcae1359de61cc12dbe37c8fa42e977c6e727a8258bb9a3f265b27e3766fe0697f6aa0bcc81c3f026e387bd7bbc81580dc1853af2daa099186a9f59da526474ef6ec0a3d84cf400be3261b6b649dea1f78184862d34d685d2d587f09acc14cd8e578fdd2283387821296f0af39b8d8845
+
+Nc321db85275d48a6b7ba3e0c1cee5640  http://www.w3.org/2003/01/geo/wgs84_pos#lat  42.361860
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/10/swap/pim/contact#publicHomePage  http://www.w3.org/People/Berners-Lee/
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/workplaceHomepage  http://www.w3.org/
+
+http://www4.wiwiss.fu-berlin.de/booksMeshup/books/006251587X  http://purl.org/dc/elements/1.1/creator  https://www.w3.org/People/Berners-Lee/card#i
+
+Nc321db85275d48a6b7ba3e0c1cee5640  http://www.w3.org/2003/01/geo/wgs84_pos#long  -71.091840
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/name  Timothy Berners-Lee
+
+http://www.w3.org/2011/Talks/0331-hyderabad-tbl/data#talk  http://purl.org/dc/terms/title  Designing the Web for an Open Society
+
+http://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2002/07/owl#sameAs  https://www.w3.org/People/Berners-Lee/card#i
+
+https://www.w3.org/People/Berners-Lee/card#i  http://xmlns.com/foaf/0.1/account  http://en.wikipedia.org/wiki/User:Timbl
+
+https://webid.mit.edu/timbl#  http://www.w3.org/ns/pim/space#storage  https://timbl.rww.io/
+
+http://www.w3.org/People/Berners-Lee/card#findMyLoc  http://my-profile.eu/ns/webapp#service  https://findmyloc.rww.io/
+
+Nf9d52266d22a473d904a17ec24f76062  http://www.w3.org/2000/10/swap/pim/contact#street  32 Vassar Street
+
+http://www.w3.org/2000/10/swap/data#Cwm  http://usefulinc.com/ns/doap#developer  https://www.w3.org/People/Berners-Lee/card#i
+
+Nf9d52266d22a473d904a17ec24f76062  http://www.w3.org/2000/10/swap/pim/contact#country  USA
+
+http://dig.csail.mit.edu/breadcrumbs/blog/4  http://www.w3.org/2000/01/rdf-schema#seeAlso  http://dig.csail.mit.edu/breadcrumbs/blog/feed/4
+
+Nf9d52266d22a473d904a17ec24f76062  http://www.w3.org/2000/10/swap/pim/contact#city  Cambridge
+
+https://www.w3.org/People/Berners-Lee/card#i  http://www.w3.org/2000/10/swap/pim/contact#office  Nf7e074eea5bf4bc4930d888a8edc8cc0
+
+http://www.w3.org/People/Berners-Lee/card#findMyLoc  http://my-profile.eu/ns/webapp#name  FindMyLoc
+
